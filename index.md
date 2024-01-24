@@ -1,4 +1,4 @@
-## Fullstack Developer | Using tech to better the world * Laravel | Python | Rust | Golang | Infrastructure | Automation
+##  Laravel | Python | Rust | Golang | Infrastructure | Automation
 
 Passionate Laravel Enthusiast ❤️
 Naturally inclined towards tinkering and exploring new concepts ✨
