@@ -1,5 +1,3 @@
-# Luís Santos 🚀
-
 ## Fullstack Developer | Using tech to better the world * Laravel | Python | Rust | Golang | Infrastructure | Automation
 
 Passionate Laravel Enthusiast ❤️
