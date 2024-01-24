@@ -8,10 +8,11 @@ I'm currently delving into the intricacies of building scalable modular systems 
 
 ### Top Skills
 - Laravel
-- Vue 3
-- Docker
-- Apache Kafka
-- Rust (Programming Language)
+- Nuxt (Vue)
+- Docker & Kubernetes
+- Messaging Systems (Kafka)
+- Python
+- Rust
 
 ## Experiences
 
