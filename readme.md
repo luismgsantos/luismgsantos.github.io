@@ -7,12 +7,12 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 I'm currently delving into the intricacies of building scalable modular systems with whatever the tech stack is 🍀
 
 ### Top Skills
-- Laravel
-- Nuxt (Vue)
+- Laravel & Nuxt (Vue)
 - Docker & Kubernetes
 - Messaging Systems (Kafka)
 - Python
 - Rust
+- Golang
 
 ## Experiences
 
@@ -45,13 +45,6 @@ I'm currently delving into the intricacies of building scalable modular systems 
 - **Duration:** Oct 2022 - Present · 1 yr 4 mos
 - **Description:** Consultant for TLScontact.
 
-### NBCC Consulting
-- **Title:** Software Development Consultant
-- **Employment Type:** Full-time
-- **Location:** Lisbon, Portugal
-- **Duration:** Jul 2020 - Oct 2022 · 2 yrs 4 mos
-- **Description:** Consultant for Worten Portugal.
-
 ### Worten Portugal
 - **Title:** Fullstack Developer
 - **Employment Type:** Full-time
@@ -73,7 +66,6 @@ I'm currently delving into the intricacies of building scalable modular systems 
     - MySQL
   - Learned GoLang to understand some sections of the company's internal code structure
   - Used Linux and MacOS as my primary operating systems
-    - zsh user all the way ❤️
   - Automated some repetitive tasks with Shell script
 - **Skills:**
   - Oracle Database
@@ -85,13 +77,20 @@ I'm currently delving into the intricacies of building scalable modular systems 
   - Continuous Integration and Continuous Delivery (CI/CD)
   - Code Review
   - Laravel
-  - Go (Programming Language)
+  - Golang
   - Apache Kafka
   - PHP
   - MySQL
   - Microsoft SQL Server
   - Vue.js
   - Cassandra
+
+### NBCC Consulting
+- **Title:** Software Development Consultant
+- **Employment Type:** Full-time
+- **Location:** Lisbon, Portugal
+- **Duration:** Jul 2020 - Oct 2022 · 2 yrs 4 mos
+- **Description:** Consultant for Worten Portugal.
 
 ### Futureway
 - **Title:** Full Stack Developer
@@ -197,7 +196,7 @@ I'm currently delving into the intricacies of building scalable modular systems 
 - **Location:** Mar 2015 - Jun 2015 · 4 mos
 - **Description:**
   - Final project
-    - Used C# to make a desktop application that manages the maintenance of client buildings by printing a report. The application is used by the maintenance technicians when they leave HQ to perform any maintenance related service.
+    - Used C# to make a desktop application that manages the maintenance of client buildings by printing a report. The application is used by the maintenance technicians when they leave HQ to perform any maintenance-related service.
 - **Skills:**
   - C#
   - .NET Framework
