@@ -14,6 +14,7 @@ I'm currently delving into the intricacies of building scalable modular systems 
 - Rust
 - Golang
 
+[📄 Download my Resume](resume.pdf)
 ## Experiences
 
 ### TLScontact
