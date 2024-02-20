@@ -14,7 +14,7 @@ I'm currently delving into the intricacies of building scalable modular systems 
 - Rust
 - Golang
 
-[📄 Download my Resume](resume.pdf){:target="_blank"}
+<a href="resume.pdf" target="_blank">📄 Download my Resume</a>
 
 ## Experiences
 
