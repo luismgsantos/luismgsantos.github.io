@@ -22,7 +22,7 @@ I'm currently delving into the intricacies of building scalable modular systems 
 - **Title:** Fullstack Developer
 - **Employment Type:** Full-time
 - **Location:** Lisbon, Lisbon, Portugal · Remote
-- **Duration:** Oct 2022 - Present · 1 yr 4 mos
+- **Duration:** Oct 2022 - Present
 - **Description:**
   - Created and executed PHP unit tests to ensure reliable software and high-quality code
   - Improved scalability and maintainability by breaking down a large system into smaller, more manageable parts
