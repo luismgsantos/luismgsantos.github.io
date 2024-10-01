@@ -21,7 +21,7 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 - **Location:** Lisbon, Lisbon, Portugal · Remote
 - **Duration:** Oct 2022 - Present
 - **Description:**
-  - Independently upgraded live high-risk payment processing application from Lumen to Laravel.
+  - Independently upgraded live high-volume payment processing application from Lumen to Laravel.
   - Implemented hundreds of Unit and Feature tests contributing to start testing the existing code base.
   - Implemented multiple E2E tests with Cypress contributing to the beginning of an automated test suite for the QA team.
   - Converted multiple core features of live project to JSON REST API improving performance and scalability.
