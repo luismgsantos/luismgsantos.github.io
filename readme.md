@@ -8,11 +8,9 @@ I'm currently delving into the intricacies of building scalable modular systems 
 
 ### Top Skills
 - Laravel & Nuxt (Vue)
-- Docker & Kubernetes
-- Messaging Systems (Kafka)
+- Kubernetes
 - Python
 - Rust
-- Golang
 
 <a href="resume.pdf" target="_blank">📄 Download my Resume</a>
 
@@ -24,27 +22,30 @@ I'm currently delving into the intricacies of building scalable modular systems 
 - **Location:** Lisbon, Lisbon, Portugal · Remote
 - **Duration:** Oct 2022 - Present
 - **Description:**
-  - Created and executed PHP unit tests to ensure reliable software and high-quality code
-  - Improved scalability and maintainability by breaking down a large system into smaller, more manageable parts
-  - Implemented DDD and CQRS to improve the organization and effectiveness of a new project
-  - Used problem-solving techniques to overcome technological difficulties and resolve issues within the framework of the current design
-  - Worked with cross-functional teams to integrate various system components
-  - Created scalable RESTful APIs for a microservices ecosystem that were designed and deployed
-  - Actively participated in code reviews, offering insightful criticism and advocating best practices
-  - Mentored junior developers, passing on expertise and advising them on best practices in software development
+  - Independently upgraded live high-risk payment processing application from Lumen to Laravel.
+  - Implemented hundreds of Unit and Feature tests contributing to start testing the existing code base.
+  - Implemented multiple E2E tests with Cypress contributing to the beginning of an automated test suite for the QA team.
+  - Converted multiple core features of live project to JSON REST API improving performance and scalability.
+  - Documented existing APIs with Swagger.
+  - Applied SOLID principles to refactor legacy code, increasing the performance and the maintainability.
+  - Implemented Horizontal Pod Autoscalling on Kubernetes Cluster.
+  - Architected DDD and CQRS green field project using [C4 model](https://c4model.com/).
+  - Conceptualized a change across the PostgreSQL database structure, introducing indexes, stored procedures, and views resulting in doubling performance in some cases.
+  - Led multiple Technical Refinement/Planning sessions.
+  - Managed incidents communicating directly with stakeholders.
+  - Improved the quality of technical tickets with the tech team.
 - **Skills:**
-  - Mentoring
-  - Vue 3
-  - PEST
-  - REST APIs
-  - Docker
   - Laravel
+  - PEST/PhpUnit
+  - JSON REST APIs
+  - Kubernetes
+  - PostgreSQL
 
 ### Boost IT
 - **Title:** Software Development Consultant
 - **Employment Type:** Full-time
 - **Location:** Lisbon, Lisbon, Portugal · Remote
-- **Duration:** Oct 2022 - Present · 1 yr 4 mos
+- **Duration:** Oct 2022 - Present
 - **Description:** Consultant for TLScontact.
 
 ### Worten Portugal
@@ -53,39 +54,23 @@ I'm currently delving into the intricacies of building scalable modular systems 
 - **Location:** Carnaxide, Lisbon, Portugal · Hybrid
 - **Duration:** Jul 2020 - Oct 2022 · 2 yrs 4 mos
 - **Description:**
-  - Solved problems taking advantage of Laravel's beautifully built framework ❤️
-  - Built REST APIs and documented them with Swagger
-  - Worked in the early days of some major internal projects using Vue
-  - Consumed and Produced messages to Apache Kafka topics
-  - Bootstrapped custom development environments for projects with Docker/Laravel Sail
-  - Set up pipelines via the GitLab CI/CD
-  - Deployed applications to AWS EC2 using Terraform
-  - Used AWS S3 Buckets to store files
-  - Leveraged the strong points of various databases:
-    - OracleSQL
-    - Cassandra
-    - MSSQL
-    - MySQL
-  - Learned GoLang to understand some sections of the company's internal code structure
-  - Used Linux and MacOS as my primary operating systems
-  - Automated some repetitive tasks with Shell script
+  - Implemented multiple pipelines in a Laravel ETL project writing data from Cassandra/OracleSQL/MSSQL/MySql to Apache Kafka topics.
+  - Implemented JSON REST APIs to serve data to internal applications and the main company [website](https://www.worten.pt/).
+  - Documented existing APIs with Swagger.
+  - Developed UIs for serving APIs using Vue Options API.
+  - Improved developer's development environments by adding Docker/Laravel Sail.
+  - Implemented multiple CI/CD pipelines on GitLab.
+  - Contributed to existing IaC in AWS using Terraform.
+  - Analyzed GoLang structural parts of the company's internal code structure.
+  - Automated repetitive tasks with Shell script and Laravel Stubs.
 - **Skills:**
-  - Oracle Database
-  - SOLID Design Principles
+  - Laravel
+  - Apache Kafka
   - REST APIs
   - Amazon Web Services (AWS)
+  - Cassandra / Microsoft SQL Server / OracleSQL / MySQL
   - Docker
-  - Shell Scripting
   - Continuous Integration and Continuous Delivery (CI/CD)
-  - Code Review
-  - Laravel
-  - Golang
-  - Apache Kafka
-  - PHP
-  - MySQL
-  - Microsoft SQL Server
-  - Vue.js
-  - Cassandra
 
 ### NBCC Consulting
 - **Title:** Software Development Consultant
