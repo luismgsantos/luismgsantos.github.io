@@ -1,10 +1,9 @@
-##  Laravel | Python | Rust | Golang | Infrastructure | Automation
+##  Laravel&Vue | Python | DevOps | Rust
 
 Passionate Laravel Enthusiast ❤️\
 Naturally inclined towards tinkering and exploring new concepts ✨\
 I'm curious and will always find different ways of doing things 👨‍💻\
-I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and Security 🌍\
-I'm currently delving into the intricacies of building scalable modular systems with whatever the tech stack is 🍀
+I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and Security 🌍
 
 ### Top Skills
 - Laravel & Nuxt (Vue)
