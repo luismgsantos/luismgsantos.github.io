@@ -1,9 +1,11 @@
 ##  Laravel&Vue | Python | DevOps | Rust
 
-Passionate Laravel Enthusiast ❤️\
-Naturally inclined towards tinkering and exploring new concepts ✨\
-I'm curious and will always find different ways of doing things 👨‍💻\
-I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and Security 🌍
+Passionate Laravel Enthusiast \
+Inclined towards tinkering and exploring new concepts and new ways of doing things ✨\
+Experienced in Frontend, Backend, and Hybrid Mobile Development, DevOps, and Security 🌍\
+Contributor to open-source projects 🐧\
+Playing with [Rust](https://www.rust-lang.org/) 🦀
+
 
 ### Top Skills
 - Laravel & Nuxt (Vue)
@@ -22,6 +24,7 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 - **Duration:** Oct 2022 - Present
 - **Description:**
   - Independently upgraded live high-volume payment processing application from Lumen to Laravel.
+  - Implemented integrations with more than 10 payment gateways, including Globalpay, HSBC, PayPal, Easypay.ua...
   - Implemented hundreds of Unit and Feature tests contributing to start testing the existing code base.
   - Implemented multiple E2E tests with Cypress contributing to the beginning of an automated test suite for the QA team.
   - Converted multiple core features of live project to JSON REST API improving performance and scalability.
@@ -35,7 +38,7 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
   - Improved the quality of technical tickets with the tech team.
 - **Skills:**
   - Laravel
-  - PEST/PhpUnit
+  - PEST/phpunit
   - JSON REST APIs
   - Kubernetes
   - PostgreSQL
@@ -53,23 +56,23 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 - **Location:** Carnaxide, Lisbon, Portugal · Hybrid
 - **Duration:** Jul 2020 - Oct 2022 · 2 yrs 4 mos
 - **Description:**
-  - Implemented multiple pipelines in a Laravel ETL project writing data from Cassandra/OracleSQL/MSSQL/MySql to Apache Kafka topics.
-  - Implemented JSON REST APIs to serve data to internal applications and the main company [website](https://www.worten.pt/).
+  - Implemented multiple pipelines in a Laravel ETL project writing data from Cassandra/OracleSQL/MSSQL/MySql to Kafka topics.
+  - Implemented JSON REST APIs serving data to millions of users.
   - Documented existing APIs with Swagger.
   - Developed UIs for serving APIs using Vue Options API.
   - Improved developer's development environments by adding Docker/Laravel Sail.
   - Implemented multiple CI/CD pipelines on GitLab.
-  - Contributed to existing IaC in AWS using Terraform.
-  - Analyzed GoLang structural parts of the company's internal code structure.
-  - Automated repetitive tasks with Shell script and Laravel Stubs.
+  - Contributed to existing IAC in AWS using Terraform.
+  - Analyzed GoLang structural parts of the company's internal code structure
+  - Automated repetitive tasks with Shell script and Laravel Stubs
 - **Skills:**
   - Laravel
-  - Apache Kafka
   - REST APIs
   - Amazon Web Services (AWS)
   - Cassandra / Microsoft SQL Server / OracleSQL / MySQL
   - Docker
   - Continuous Integration and Continuous Delivery (CI/CD)
+  - Apache Kafka
 
 ### NBCC Consulting
 - **Title:** Software Development Consultant
@@ -84,12 +87,15 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 - **Location:** Setúbal Area, Portugal
 - **Duration:** Oct 2019 - Jul 2020 · 10 mos
 - **Description:**
-  - Development of multiple mobile and web applications.
-  - Responsible for every phase, including Front-end, Back-end, Database, Monitoring
-  - Used the internal company's framework to create REST APIs.
-  - Consumed public APIs to enrich the company's applications:
-    - toconline
-    - gmaps
+  - Managed tens of existing PHP applications adding improvements weekly.
+  - Developed mobile applications with Ionic Framework.
+  - Implemented Frontend using Bootstrap 4.
+  - Created an internal reusable component library for Angular components.
+  - Implemented key features that serve all company products.
+  - Implemented integrations with popular APIs
+    - Google Maps
+    - toconline - PT financial management system
+    
 - **Skills:**
   - Angular
   - PHP
@@ -115,8 +121,9 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 - **Location:** Lisbon Area, Portugal
 - **Duration:** Mar 2019 - Jun 2019 · 4 mos
 - **Description:**
-  - Responsible for developing multiple functionalities in the app Caixadireta:
-    - Worked alongside the Product Owner and Designer in an Agile environment to better suit the app to the client's needs.
+  - Implemented Frontend components in multiple screens in the app [Caixadireta](https://play.google.com/store/apps/details?id=cgd.pt.caixadirectaparticulares).
+  - Collaborating directly with the Product Owner and Designer in a SCRUM environment
+  
 - **Skills:**
   - Agile Application Development
   - Figma (Software)
@@ -128,7 +135,10 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 - **Employment Type:** Full-time
 - **Location:** Lisboa e Região, Portugal
 - **Duration:** Jul 2018 - Nov 2018 · 5 mos
-- **Description:** Support for the RNCCI application. Automated repetitive tasks using Javascript directly injected in the browser's console.
+- **Description:** 
+  - Managed Incident Support for the [RNCCI application](https://www2.gov.pt/en-GB/guias/cuidador-informal/rede-nacional-de-cuidados-continuados-integrados-rncci).
+  - Developed multiple improvements in the app to help Public Health Care professionals.
+  - Automated repetitive tasks using Javascript contribuiting to an increase in 50% in the solved issues for each SRE.
 - **Skills:**
   - Cascading Style Sheets (CSS)
   - PHP
@@ -153,7 +163,9 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 - **Title:** Frontend Developer
 - **Employment Type:** Full-time
 - **Location:** Nov 2017 - Jul 2018 · 9 mos
-- **Description:** Worked alongside the Designer and the Backend Developer to create websites and applications for the company's clients.
+- **Description:** 
+  - Implemented close to 10 websites with contact forms using jQuery and PHP
+  - Colaborated with Backend developer and Designer
 - **Skills:**
   - jQuery
   - Laravel
@@ -168,7 +180,7 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 - **Description:**
   - Final Project
     - Used the Ionic Framework to create a mobile application so users could monitor their own IoT system.
-    - Used C++ to create a simple yet functional IoT system using an Arduino based board.
+    - Used C++ to create a simple yet functional IoT system using an Arduino-based board.
 - **Skills:**
   - Angular
   - PHP
@@ -182,7 +194,8 @@ I am experienced in Frontend and hybrid mobile development, Backend, DevOps, and
 - **Location:** Mar 2015 - Jun 2015 · 4 mos
 - **Description:**
   - Final project
-    - Used C# to make a desktop application that manages the maintenance of client buildings by printing a report. The application is used by the maintenance technicians when they leave HQ to perform any maintenance-related service.
+    - Used C# to make a desktop application that manages the maintenance of client buildings by printing a report.
+      - The application is used by the maintenance technicians when they leave HQ to perform any maintenance-related service.
 - **Skills:**
   - C#
   - .NET Framework
