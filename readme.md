@@ -13,7 +13,9 @@ Playing with [Rust](https://www.rust-lang.org/) 🦀
 - Python
 - Rust
 
-<a href="resume.pdf" target="_blank">📄 Download my Resume</a>
+### Download my resume
+<a href="resume.pdf" target="_blank">📄 resume.pdf (w/ colors)</a>  
+<a href="resume_compact.pdf" target="_blank">📜 resume.pdf (condensed)</a>  
 
 ## Experiences
 
