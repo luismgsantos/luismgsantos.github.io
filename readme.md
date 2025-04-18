@@ -14,8 +14,8 @@ Playing with [Rust](https://www.rust-lang.org/) 🦀
 - Rust
 
 ### Download my resume
-<a href="cv_en_luismgspro.pdf" target="_blank">🇺🇸 resume.pdf</a>
-<a href="cv_fr_luismgspro.pdf" target="_blank">🇫🇷 resume.pdf</a>
+🇺🇸 <a href="cv_en_luismgspro.pdf" target="_blank">resume.pdf</a> \
+🇫🇷 <a href="cv_fr_luismgspro.pdf" target="_blank">resume.pdf</a>
 
 ## Experiences
 
