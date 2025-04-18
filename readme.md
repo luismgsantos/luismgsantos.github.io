@@ -1,11 +1,9 @@
 ##  Laravel&Vue | Python | DevOps | Rust
 
-Passionate Laravel Enthusiast \
-Inclined towards tinkering and exploring new concepts and new ways of doing things ✨\
-Experienced in Frontend, Backend, and Hybrid Mobile Development, DevOps, and Security 🌍\
-Contributor to open-source projects 🐧\
-Playing with [Rust](https://www.rust-lang.org/) 🦀
-
+Experienced Full Stack Developer, strong background in multiple technologies including PHP/Laravel, Vue, and Python, \
+applied to developing large-scale solutions where security and reliability are essential.\
+Specializing in task automation, process optimization, and producing high-quality code within collaborative teams.\ 
+Interested in DevOps and infrastructure, focusing on scalable cloud solutions.
 
 ### Top Skills
 - Laravel & Nuxt (Vue)
