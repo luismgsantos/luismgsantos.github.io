@@ -1,8 +1,8 @@
 ##  Laravel&Vue | Python | DevOps | Rust
 
-Experienced Full Stack Developer, strong background in multiple technologies including PHP/Laravel, Vue, and Python, \
-applied to developing large-scale solutions where security and reliability are essential.\
-Specializing in task automation, process optimization, and producing high-quality code within collaborative teams.\ 
+Experienced Full Stack Developer, strong background in multiple technologies including PHP/Laravel, Vue, and Python,
+applied to developing large-scale solutions where security and reliability are essential.
+Specializing in task automation, process optimization, and producing high-quality code within collaborative teams.
 Interested in DevOps and infrastructure, focusing on scalable cloud solutions.
 
 ### Top Skills
