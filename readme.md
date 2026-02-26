@@ -83,15 +83,15 @@ Available for freelance projects and collaborations.
 - **Location:** Carnaxide, Lisbon, Portugal - Hybrid
 - **Duration:** Jul 2020 - Oct 2022 - 2 yrs 4 mos
 - **Description:**
-  - Implemented multiple pipelines in a Laravel ETL project writing data from Cassandra/OracleSQL/MSSQL/MySql to Kafka topics.
-  - Implemented JSON REST APIs serving data to millions of users.
-  - Documented existing APIs with Swagger.
-  - Developed UIs for serving APIs using Vue Options API.
-  - Improved developer's development environments by adding Docker/Laravel Sail.
-  - Implemented multiple CI/CD pipelines on GitLab.
-  - Contributed to existing IAC in AWS using Terraform.
-  - Analyzed GoLang structural parts of the company's internal code structure
-  - Automated repetitive tasks with Shell script and Laravel Stubs
+  - Implemented multiple ETL pipelines in Laravel, processing data across Cassandra, OracleSQL, MSSQL, and MySQL into Kafka topics.
+  - Built and documented JSON REST APIs with Swagger, serving data to millions of users.
+  - Developed internal interfaces using Vue Options API to support API consumption.
+  - Bootstrapped development environments using Docker and Laravel Sail, improving team onboarding and consistency.
+  - Implemented CI/CD pipelines on GitLab.
+  - Deployed applications to AWS EC2 and managed infrastructure as code with Terraform.
+  - Contributed to cloud storage architecture using AWS S3.
+  - Analyzed GoLang components within the company's internal codebase.
+  - Automated repetitive workflows using Shell scripts and Laravel Stubs.
 - **Skills:**
   - Laravel
   - REST APIs
